@@ -1,0 +1,7 @@
+{
+  "name": "dashboard-screen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
